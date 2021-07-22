@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header_optionLineOne {
+    font-size: 20px;
+    color: white; 
+}
+
+.cone {
+    font-size: 20px;
+    color: white;
+
+}
+
+.ctwo {
+    font-size: 10px;
+    color: white;
+}
+
+.istelogo {
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 6px;
+}
+
+.header_option{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header_nav {
+    position: fixed;
+    margin-left: 75vw;
+    display: flex;
+    justify-content: space-evenly;
+}
