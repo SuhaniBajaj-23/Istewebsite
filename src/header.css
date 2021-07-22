@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.Head{
+    color: white;
+    margin-left: 10vw;
+    margin-top: 15vh;
+    display: flex;
+
+}
+
+.headtxt{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #D6D6D6;
+
+}
+
+.headcon{
+margin-top: 10px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+color: #D6D6D6;
+}
+
+.headbtn {
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.15);
+border: 3px solid #FF9900;
+box-sizing: border-box;
+border-radius: 20px;
+padding: 5px 10px;
+}
+
+.headbtn span{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+
+.start{
+    float: right;
+    margin-left: 100px;
+    background: rgba(255, 255, 255, 0.15);
+border-radius: 0px 0px 0px 30px;
+margin-right: 0px;
+padding: 30px;
+}
+
+.headimg{
+    height: 18vw;
+    width: 40vw;
+}
+
+.bt{
+    background: #FFDDA9;
+    border: none;
+}
+
+.bt span {
+    color: black;
+}
+
+.lcon{
+    margin-top: 100px;
+}
